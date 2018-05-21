@@ -1,7 +1,7 @@
-name: "ds5220f17"
+name: "ds5220f18"
 output_dir: "."
 navbar:
-  title: "DS 5220 / CS6140-02"
+  title: "DS 5220"
   left:
     - text: "Info"
       href: index.html

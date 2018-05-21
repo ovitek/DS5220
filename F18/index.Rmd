@@ -1,5 +1,5 @@
 <h1> Supervised Machine Learning, Fall 2018 </h1>
-<h2>TF 9:50am - 11:30am, Forsyth 236</h2>
+<h2>TF 9:50am - 11:30am, Ell Hall 312</h2>
 
 <p><strong>Instructor:</strong> [Prof. Olga Vitek](http://olga-vitek-lab.ccis.northeastern.edu/)</br>
 Email: o.vitek@neu.edu</br>
@@ -15,7 +15,7 @@ Mr. Ahmet Salih Gundogdu,
 Email: gundogdu.a@husky.neu.edu,
 Office hours: 462 WVH, Tuesdays 3:00-4:00 pm.</p>
 
-<p><strong>Course policies and administration:</strong></br> [Syllabus](DS5220-CS6140-Fall17-syllabus.pdf). [Piazza](http://www.piazza.com/northeastern/fall2017/ds5220cs614002), [Blackboard](https://blackboard.neu.edu/).</br>
+<p><strong>Course policies and administration:</strong></br> [Syllabus](DS5220-Fall18-syllabus.pdf). [Piazza](http://www.piazza.com/northeastern/fall2017/ds5220cs614002), [Blackboard](https://blackboard.neu.edu/).</br>
 [Academic integrity policy](http://www.northeastern.edu/osccr/academic-integrity-policy/) is strictly enforced.</p> 
 
 <h2>Required texts:</h2>
