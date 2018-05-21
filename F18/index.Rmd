@@ -1,4 +1,4 @@
-<h1> Supervised Machine Learning, Fall 2017 </h1>
+<h1> Supervised Machine Learning, Fall 2018 </h1>
 <h2>TF 9:50am - 11:30am, Forsyth 236</h2>
 
 <p><strong>Instructor:</strong> [Prof. Olga Vitek](http://olga-vitek-lab.ccis.northeastern.edu/)</br>
