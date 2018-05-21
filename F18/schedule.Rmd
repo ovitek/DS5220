@@ -1,4 +1,4 @@
-<h1> Supervised Machine Learning, Fall 2017 </h1>
+<h1> Supervised Machine Learning, Fall 2018 </h1>
 Schedule is updated dynamically during the semester
 </br>
 
