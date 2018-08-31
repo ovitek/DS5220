@@ -8,14 +8,14 @@ Phone: (617) 373-6305</br>
 Mailbox: WVH 202</p>
 
 <p><strong>Teaching assistants:</strong></br>
-[Mrs. Dan Guo](http://www.ccis.northeastern.edu/people/dan-guo/), 
-Email: guo.dan@husky.neu.edu,
-Office hours: 466B WVH, Fridays 2:00-3:00 pm.</br>
-Mr. Ahmet Salih Gundogdu, 
-Email: gundogdu.a@husky.neu.edu,
-Office hours: 462 WVH, Tuesdays 3:00-4:00 pm.</p>
+[Mr. Tyler Nguyen](https://www.ccis.northeastern.edu/people/tuan-tyler-nguyen/), 
+Email: nguyen.tua@husky.neu.edu,
+Office hours: TBA.</br>
+[Mr. Kaushal Paneri](https://www.linkedin.com/in/kaushalpaneri/), 
+Email: paneri.k@husky.neu.edu,
+Office hours: TBA.</p>
 
-<p><strong>Course policies and administration:</strong></br> [Syllabus](DS5220-Fall18-syllabus.pdf). [Piazza](http://www.piazza.com/northeastern/fall2017/ds5220cs614002), [Blackboard](https://blackboard.neu.edu/).</br>
+<p><strong>Course policies and administration:</strong></br> [Syllabus](DS5220-Fall18-syllabus.pdf). [Piazza](piazza.com/northeastern/fall2018/ds5220), [Blackboard](https://northeastern.blackboard.com/).</br>
 [Academic integrity policy](http://www.northeastern.edu/osccr/academic-integrity-policy/) is strictly enforced.</p> 
 
 <h2>Required texts:</h2>

@@ -4,19 +4,34 @@ Schedule is updated dynamically during the semester
 
 <font size="3">
 
-|| DATE      | TOPIC           |READING         |      OUT |      DUE |
+|  | DATE      | TOPIC             |READING       |      OUT |      DUE   |
 |--| --------- |:----------------- |:-------------| --------:| ----------:|
-|1| Fri, Sep 8 | Introduction | JWHT Ch1-2</br>HTF Ch1-2.7</br>KM Ch1|||
-|2| Tue, Sep 12</br>Fri, Sep 15 | Probability review |KM Ch2|Hw1 out||
-|3| Tue, Sep 19</br>Fri, Sep 22</br></br>*Tue, Sep 26* | Linear regression</br></br></br>*Regression case study* |JWHT Ch3, 5-6</br>HTF Ch3, 7</br>KM Ch. 7.1-7.3|</br>Hw2 out|</br>Hw1 due|
-|4| Fri, Sep 29</br>Tue, Oct3 | Logistic regression |JWHT Ch4.1-4.3</br>HTF Ch4.4</br>KM Ch8||</br>Hw2 due</br> Proj. group due|
-|5| Fri, Oct 6</br>Tue, Oct10</br>Fri, Oct 13 | Generative classifiers |JWHT Ch4.4-4.6</br>HTF Ch4.3, 18.2</br>KM Ch4.1-4.2|Hw3 out||
-| | *Tue, Oct 17*</br>*Fri, Oct 20*</br>Tue, Oct 24| *No class, exam & project prep*</br><strong>Midterm exam</strong></br><strong>In-class project pitch</strong> ||| Hw3 due</br></br>Proj. proposal due|
-|6| Fri, Oct 27</br>Tue, Oct 31 | Splines, kernels, SVM |JWHT Ch7</br>HTF Ch5-6, 12</br> KM Ch14|||
-|7| Fri, Nov 3</br>Tue, Nov 7</br>Fri, Nov 10</br>*Tue, Nov 14* | Tree-based & ensemble methods</br></br></br>*Case study* |HTF Ch8.2, 8.7, 9.2, 10</br>KM Ch16.1-16.4</br>JWHT Ch 8|Hw4 out</br></br></br>Hw5 out|</br></br></br>Hw4 due|
-|8| Fri, Nov 17</br>Tue, Nov 21</br>*Fri, Nov 24*</br>Tue, Nov 28  | Neural networks & deep learning</br></br>*No class, Thanksgiving*</br><strong>Project presentations</strong> |HTF Ch11</br>KM Ch8.3, 16.5</br>[Online tutorial](http://deeplearning.stanford.edu/tutorial/)</br>[Online book](http://www.deeplearningbook.org/)|</br></br></br>Hw5 due||
-| | Fri, Dec 1 | <strong>Project presentations</strong> ||| Proj. report due|
-| | *Tue, Dec 5* | *No class, exam prep* ||||
-| | *Fri, Dec 8* | <strong>Final exam</strong> ||||
-| | Tue, Dec 12 |  |||Proj. review due|
+|1 |Fri, Sep 7 |                   |              |          |            |
+|  |Tue, Sep 11|                   |              |          |            |
+|  |Fri, Sep 14|                   |              |          |            |
+|  |Tue, Sep 18|                   |              |          |            |
+|  |Fri, Sep 21|                   |              |          |            |
+|  |Tue, Sep 25|                   |              |          |            |
+|  |Fri, Sep 28|                   |              |          |            |
+|  |Tue, Oct 2 |  Guest lecture    |              |          |            |
+|  |Fri, Oct 5 |                   |              |          |            |
+|  |Tue, Oct 9 |                   |              |          |            |
+|  |Fri, Oct 12|                   |              |          |            |
+|  |Tue, Oct 16|                   |              |          |            |
+|  |Fri, Oct 19|    **Midterm**    |              |          |            |
+|  |Tue, Oct 23|                   |              |          |            |
+|  |Fri, Oct 26|                   |              |          |            |
+|  |Tue, Oct 30|                   |              |          |            |
+|  |Fri, Nov 2 |                   |              |          |            |
+|  |Tue, Nov 6 |                   |              |          |            |
+|  |Fri, Nov 9 |                   |              |          |            |
+|  |Tue, Nov 13|  Guest lecture    |              |          |            |
+|  |Fri, Nov 16|                   |              |          |            |
+|  |Tue, Nov 20|                   |              |          |            |
+|  |Fri, Nov 23|*No class - Thanksgiving*|        |          |            |
+|  |Tue, Nov 27|                   |              |          |            |
+|  |Fri, Nov 30|                   |              |          |            |
+|  |Tue, Dec 4 |**Final exam**     |              |          |            |
+|  |Fri, Dec 7 |**Project presentations**|        |          |            |
+|  |Tue, Dec 11| *Finals week*     |              |          | Proj. review due |
 </font>
