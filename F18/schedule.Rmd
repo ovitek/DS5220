@@ -21,7 +21,7 @@ Schedule is updated dynamically during the semester
 |  |Fri, Oct 19|    **Midterm**    |              |          |            |
 |  |Tue, Oct 23|                   |              |          |            |
 |  |Fri, Oct 26|                   |              |          |            |
-|  |Tue, Oct 30|                   |              |          |            |
+|  |Tue, Oct 30|**In-class project pitches**|              |          |            |
 |  |Fri, Nov 2 |                   |              |          |            |
 |  |Tue, Nov 6 |                   |              |          |            |
 |  |Fri, Nov 9 |                   |              |          |            |
@@ -30,8 +30,8 @@ Schedule is updated dynamically during the semester
 |  |Tue, Nov 20|                   |              |          |            |
 |  |Fri, Nov 23|*No class - Thanksgiving*|        |          |            |
 |  |Tue, Nov 27|                   |              |          |            |
-|  |Fri, Nov 30|                   |              |          |            |
-|  |Tue, Dec 4 |**Final exam**     |              |          |            |
+|  |Fri, Nov 30|**Final exam**     |              |          |            |
+|  |Tue, Dec 4 |**Project presentations**|              |          |            |
 |  |Fri, Dec 7 |**Project presentations**|        |          |            |
 |  |Tue, Dec 11| *Finals week*     |              |          | Proj. review due |
 </font>
