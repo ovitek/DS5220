@@ -4,34 +4,34 @@ Schedule is updated dynamically during the semester
 
 <font size="3">
 
-|  | DATE      | TOPIC             |READING       |      OUT |      DUE   |
-|--| --------- |:----------------- |:-------------| --------:| ----------:|
-|1 |Fri, Sep 7 |                   |              |          |            |
-|  |Tue, Sep 11|                   |              |          |            |
-|  |Fri, Sep 14|                   |              |          |            |
-|  |Tue, Sep 18|                   |              |          |            |
-|  |Fri, Sep 21|                   |              |          |            |
-|  |Tue, Sep 25|                   |              |          |            |
-|  |Fri, Sep 28|                   |              |          |            |
-|  |Tue, Oct 2 |  Guest lecture    |              |          |            |
-|  |Fri, Oct 5 |                   |              |          |            |
-|  |Tue, Oct 9 |                   |              |          |            |
-|  |Fri, Oct 12|                   |              |          |            |
-|  |Tue, Oct 16|                   |              |          |            |
-|  |Fri, Oct 19|    **Midterm**    |              |          |            |
-|  |Tue, Oct 23|                   |              |          |            |
-|  |Fri, Oct 26|                   |              |          |            |
-|  |Tue, Oct 30|**In-class project pitches**|              |          |            |
-|  |Fri, Nov 2 |                   |              |          |            |
-|  |Tue, Nov 6 |                   |              |          |            |
-|  |Fri, Nov 9 |                   |              |          |            |
-|  |Tue, Nov 13|  Guest lecture    |              |          |            |
-|  |Fri, Nov 16|                   |              |          |            |
-|  |Tue, Nov 20|                   |              |          |            |
-|  |Fri, Nov 23|*No class - Thanksgiving*|        |          |            |
-|  |Tue, Nov 27|                   |              |          |            |
-|  |Fri, Nov 30|**Final exam**     |              |          |            |
-|  |Tue, Dec 4 |**Project presentations**|              |          |            |
-|  |Fri, Dec 7 |**Project presentations**|        |          |            |
-|  |Tue, Dec 11| *Finals week*     |              |          | Proj. review due |
+|  | DATE      | TOPIC              |READING    |      OUT|      DUE   |
+|--| --------- |:------------------ |:----------| -------:| ----------:|
+|1 |Fri, Sep 7 |Statitical learning; k-NN regression, one-variable linear regression, least squares||Hw1 out||
+|2 |Tue, Sep 11|Gaussian one-variable regression: maximum likelihood, gradient descent, measures of associations||||
+|3 |Fri, Sep 14|Multi-variable regression: categorical predictors, unequal variance, robust regression||||
+|4 |Tue, Sep 18|Overfitting, bias/variance tradeoff, variable selection, cross-validation||Hw2 out| Hw1 due|
+|5 |Fri, Sep 21|Regression in high dimensions: curse of dimensionality, regularization||||
+|6 |Tue, Sep 25|k-NN, perceptron, logistic regression||||
+|7 |Fri, Sep 28|Regularized logistic regression, multinomial/softmax regression||||
+|8 |Tue, Oct 2 | *Guest lecture*||Hw3 out| Hw2 due</br>Proj. group due|
+|9 |Fri, Oct 5 |Bayes learning, MAP estimation, Naive Bayes, mixtures of Gaussians||||
+|10|Tue, Oct 9 |LDA, regularized LDA, diagonal LDA, nearest shrunken centroids||||
+|11|Fri, Oct 12|Bayesian inference for Gaussian models and regularization; information theory||||
+|12|Tue, Oct 16|*Exam prep*|||Hw3 due|
+|13|Fri, Oct 19|**Midterm**||||
+|14|Tue, Oct 23|Basis expansion, splines, kernels; kernel density estimation||||
+|15|Fri, Oct 26|**In-class project pitches**||Hw4 out|Proj. pitch due|
+|16|Tue, Oct 30|Support vector machines, convex optimization||||
+|17|Fri, Nov 2 |Classification/regression trees, bagging, random forest||||
+|18|Tue, Nov 6 |Boosting, adaBoost; model interpretation||||
+|19|Fri, Nov 9 |Neural networks: representation||Hw5 out| Hw4 due|
+|20|Tue, Nov 13| *Guest lecture*||||
+|21|Fri, Nov 16|Neural networks: training||||
+|22|Tue, Nov 20|Convolutional neural networks||||
+|23|Fri, Nov 23|*No class - Thanksgiving*||||
+|24|Tue, Nov 27|*Exam prep*|||Hw5 due|
+|25|Fri, Nov 30|**Final exam**||||
+|26|Tue, Dec 4 |**Project presentations**||||
+|27|Fri, Dec 7 |**Project presentations**|||Proj. report due|
+|28|Tue, Dec 11| *Finals week*|||Proj. review due|
 </font>

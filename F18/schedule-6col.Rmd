@@ -1,0 +1,37 @@
+<h1> Supervised Machine Learning, Fall 2018 </h1>
+Schedule is updated dynamically during the semester
+</br>
+
+<font size="3">
+
+|  | DATE      | TOPIC             |READING       |      OUT |      DUE   |
+|--| --------- |:----------------- |:-------------| --------:| ----------:|
+|1 |Fri, Sep 7 |Statitical learning; linear regression || Hw1 out  |            |
+|2 |Tue, Sep 11|Least squares; maximum likelihood||      |            |
+|3 |Fri, Sep 14|Multicollinearity; robust regression||       |            |
+|4 |Tue, Sep 18|Variable selection; bias/variance tradeoff|  | Hw2 out  | Hw1 due    |
+|5 |Fri, Sep 21|Regularization     |              |          |            |
+|6 |Tue, Sep 25|k-NN, perceptron, logistic regression, maximum likelihood||     |            |
+|7 |Fri, Sep 28|Regularization, multinomial regression ||    |            |
+|8 |Tue, Oct 2 | *Guest lecture*   |              | Hw3 out  | Hw2 due</br>Proj. groups due    |
+|9 |Fri, Oct 5 |Bayes learning, MAP estimation, Naive Bayes|              |          |            |
+|10|Tue, Oct 9 |Gaussian Mixtures, LDA|           |          |            |
+|11|Fri, Oct 12|Bayesian regression and regularization||     |            |
+|12|Tue, Oct 16|*Exam prep*        |              |          | Hw3 due    |
+|13|Fri, Oct 19|    **Midterm**    |              |          |            |
+|14|Tue, Oct 23|Splines, kernels, basis expansion||          |            |
+|15|Fri, Oct 26|**In-class project pitches**|     | Hw4 out  |            |
+|16|Tue, Oct 30|SVM                |              |          |            |
+|17|Fri, Nov 2 |Tree-based methods, random forest ||         |            |
+|18|Tue, Nov 6 |Boosting; adaBoost; interpretation||         |            |
+|19|Fri, Nov 9 |Neural networks: representation|  | Hw5 out  | Hw4 due    |
+|20|Tue, Nov 13| *Guest lecture*   |              |          |            |
+|21|Fri, Nov 16|Neural networks: back-propagation||          |            |
+|22|Tue, Nov 20|Convolutional neural networks|    |          |            |
+|23|Fri, Nov 23|*No class - Thanksgiving*|        |          |            |
+|24|Tue, Nov 27|*Exam prep*        |              |          | Hw5 due    |
+|25|Fri, Nov 30|**Final exam**     |              |          |            |
+|26|Tue, Dec 4 |**Project presentations**|        |          |            |
+|27|Fri, Dec 7 |**Project presentations**|        |          |            |
+|28|Tue, Dec 11| *Finals week*     |              |          | Proj. review due |
+</font>

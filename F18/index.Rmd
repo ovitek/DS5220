@@ -20,10 +20,10 @@ Office hours: TBA.</p>
 
 <h2>Required texts:</h2>
 <p>(JWHT) [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/). G. James, D. Witten, T. Hastie, R. Tibshirani, Springer 2013.</br>
-(HTF) [Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/). T. Hastie, R. Tibshirani and J. Friedman, Springer, 2009.</p>
+(HTF) [Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/). T. Hastie, R. Tibshirani and J. Friedman, Springer, 2009.</br>
+(CB) [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/people/cmbishop/). C. M. Bishop, Springer 2006.</p>
 
 <h2>Optional texts:</h2>
 <p>(Murphy) [Machine Learning: A Probabilistic Perspective](http://www.cs.ubc.ca/~murphyk/MLbook/). Kevin P. Murphy, MIT Press 2012.</br>
 (Duda) [Pattern Classification](http://www.wiley.com/WileyCDA/WileyTitle/productCd-0471056693.html), 2nd Edition. R. O. Duda, P. E. Hart, D. Stork, Wiley and Sons, 2001.</br>
-(Bishop) [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/people/cmbishop/). C. M. Bishop, Springer 2006.</br>
 (Mitchell) [Machine Learning](http://www.cs.cmu.edu/afs/cs.cmu.edu/user/mitchell/ftp/mlbook.html). T. Mitchell, McGraw-Hill, 1997.</p>

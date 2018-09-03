@@ -1,0 +1,37 @@
+<h1> Supervised Machine Learning, Fall 2018 </h1>
+Schedule is updated dynamically during the semester
+</br>
+
+<font size="3">
+
+|  | DATE      | TOPIC             |READING       |      OUT |      DUE   |
+|--| --------- |:----------------- |:-------------| --------:| ----------:|
+|1 |Fri, Sep 7 |                   |              |          |            |
+|  |Tue, Sep 11|                   |              |          |            |
+|  |Fri, Sep 14|                   |              |          |            |
+|  |Tue, Sep 18|                   |              |          | Hw1 due    |
+|  |Fri, Sep 21|                   |              |          |            |
+|  |Tue, Sep 25|                   |              |          |            |
+|  |Fri, Sep 28|                   |              |          |            |
+|  |Tue, Oct 2 | *Guest lecture*   |              |          | Hw2 due    |
+|  |Fri, Oct 5 |                   |              |          |            |
+|  |Tue, Oct 9 |                   |              |          |            |
+|  |Fri, Oct 12|                   |              |          |            |
+|  |Tue, Oct 16|*Exam prep*        |              |          | Hw3 due    |
+|  |Fri, Oct 19|    **Midterm**    |              |          |            |
+|  |Tue, Oct 23|                   |              |          |            |
+|  |Fri, Oct 26|**In-class project pitches**|     |          |            |
+|  |Tue, Oct 30|                   |              |          |            |
+|  |Fri, Nov 2 |                   |              |          |            |
+|  |Tue, Nov 6 |                   |              |          |            |
+|  |Fri, Nov 9 |                   |              |          | Hw4 due    |
+|  |Tue, Nov 13| *Guest lecture*   |              |          |            |
+|  |Fri, Nov 16|                   |              |          |            |
+|  |Tue, Nov 20|                   |              |          |            |
+|  |Fri, Nov 23|*No class - Thanksgiving*|        |          |            |
+|  |Tue, Nov 27|*Exam prep*        |              |          | Hw5 due    |
+|  |Fri, Nov 30|**Final exam**     |              |          |            |
+|  |Tue, Dec 4 |**Project presentations**|        |          |            |
+|  |Fri, Dec 7 |**Project presentations**|        |          |            |
+|  |Tue, Dec 11| *Finals week*     |              |          | Proj. review due |
+</font>
