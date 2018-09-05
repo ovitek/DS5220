@@ -8,12 +8,12 @@ Phone: (617) 373-6305</br>
 Mailbox: WVH 202</p>
 
 <p><strong>Teaching assistants:</strong></br>
-[Mr. Tyler Nguyen](https://www.ccis.northeastern.edu/people/tuan-tyler-nguyen/), 
+[Mr. Tyler Tuan](https://www.ccis.northeastern.edu/people/tuan-tyler-nguyen/), 
 Email: nguyen.tua@husky.neu.edu,
-Office hours: TBA.</br>
+Office hours: Wednesday 3pm, WVH310C</br>
 [Mr. Kaushal Paneri](https://www.linkedin.com/in/kaushalpaneri/), 
 Email: paneri.k@husky.neu.edu,
-Office hours: TBA.</p>
+Office hours: Mondays 4pm, location TBA.</p>
 
 <p><strong>Course policies and administration:</strong></br> [Syllabus](DS5220-Fall18-syllabus.pdf). [Piazza](piazza.com/northeastern/fall2018/ds5220), [Blackboard](https://northeastern.blackboard.com/).</br>
 [Academic integrity policy](http://www.northeastern.edu/osccr/academic-integrity-policy/) is strictly enforced.</p> 
