@@ -19,8 +19,8 @@ Office hours: Mondays 4pm, Nightingale Hall 132I.</p>
 [Academic integrity policy](http://www.northeastern.edu/osccr/academic-integrity-policy/) is strictly enforced.</p> 
 
 <h2>Required texts:</h2>
-<p>(JWHT) [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/). G. James, D. Witten, T. Hastie, R. Tibshirani, Springer 2013.</br>
-(HTF) [Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/). T. Hastie, R. Tibshirani and J. Friedman, Springer, 2009.</br>
+<p>(JW) [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/). G. James, D. Witten, T. Hastie, R. Tibshirani, Springer 2013.</br>
+(HT) [Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/). T. Hastie, R. Tibshirani and J. Friedman, Springer, 2009.</br>
 (CB) [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/people/cmbishop/). C. M. Bishop, Springer 2006.</p>
 
 <h2>Optional texts:</h2>
