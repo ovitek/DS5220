@@ -24,7 +24,7 @@ Schedule is updated dynamically during the semester
 |15|Fri, Oct 26|Basis expansion, continued||||
 |16|Tue, Oct 30|**In-class project pitches**||Hw4 out|Proj. pitch due|
 |17|Fri, Nov 2 |Support vector machines, convex optimization|JW 9.1-4, </br>HT 4.5, 12.1-12.3.4, CB 7.1|||
-|18|Tue, Nov 6 |Classification/regression trees, bagging, random forest;</br>Boosting, adaBoost; model interpretation|JW 8.1-8.2,</br>HT 9.2, 15.1-15.3</br>JW 8.2, </br>HT 10.1-10.2|||
+|18|Tue, Nov 6 |Classification/regression trees, bagging, random forest;</br>Boosting, model interpretation|JW 8.1-8.2,</br>HT 9.2, 15.1-15.3</br>JW 8.2 HT 10.1-10.2|||
 |19|Fri, Nov 9 |Neural networks: representation|HT 11.3, CB 5.1-5.2|Hw5 out| Hw4 due|
 |20|Tue, Nov 13| *Guest lecture*||||
 |21|Fri, Nov 16|Neural networks: training|HT 11.4-11.7</br>CB 5.3-5.5.5|||
