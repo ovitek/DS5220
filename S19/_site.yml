@@ -1,0 +1,13 @@
+name: "ds5220f18"
+output_dir: "."
+navbar:
+  title: "DS 5220"
+  left:
+    - text: "Info"
+      href: index.html
+    - text: "Schedule"
+      href: schedule.html
+output:
+  html_document:
+    theme: paper
+    css: style.css

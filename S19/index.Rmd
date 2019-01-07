@@ -1,0 +1,29 @@
+<h1> Supervised Machine Learning, Fall 2018 </h1>
+<h2>TF 9:50am - 11:30am, Ell Hall 312</h2>
+
+<p><strong>Instructor:</strong> [Prof. Olga Vitek](http://olga-vitek-lab.ccis.northeastern.edu/)</br>
+Email: o.vitek@neu.edu</br>
+Office hours: WVH 310F, Tuesdays 11:30am-12:30am, or by appointment.</br>
+Phone: (617) 373-6305</br>
+Mailbox: WVH 202</p>
+
+<p><strong>Teaching assistants:</strong></br>
+[Mr. Tyler Tuan](https://www.ccis.northeastern.edu/people/tuan-tyler-nguyen/), 
+Email: nguyen.tua@husky.neu.edu,
+Office hours: Wednesday 3pm, WVH310C</br>
+[Mr. Kaushal Paneri](https://www.linkedin.com/in/kaushalpaneri/), 
+Email: paneri.k@husky.neu.edu,
+Office hours: Mondays 4pm, Nightingale Hall 132I.</p>
+
+<p><strong>Course policies and administration:</strong></br> [Syllabus](DS5220-Fall18-syllabus.pdf). [Piazza](http://www.piazza.com/northeastern/fall2018/ds5220/home), [Blackboard](https://northeastern.blackboard.com/).</br>
+[Academic integrity policy](http://www.northeastern.edu/osccr/academic-integrity-policy/) is strictly enforced.</p> 
+
+<h2>Required texts:</h2>
+<p>(JW) [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/). G. James, D. Witten, T. Hastie, R. Tibshirani, Springer 2013.</br>
+(HT) [Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/). T. Hastie, R. Tibshirani and J. Friedman, Springer, 2009.</br>
+(CB) [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/people/cmbishop/). C. M. Bishop, Springer 2006.</p>
+
+<h2>Optional texts:</h2>
+<p>(Murphy) [Machine Learning: A Probabilistic Perspective](http://www.cs.ubc.ca/~murphyk/MLbook/). Kevin P. Murphy, MIT Press 2012.</br>
+(Duda) [Pattern Classification](http://www.wiley.com/WileyCDA/WileyTitle/productCd-0471056693.html), 2nd Edition. R. O. Duda, P. E. Hart, D. Stork, Wiley and Sons, 2001.</br>
+(Mitchell) [Machine Learning](http://www.cs.cmu.edu/afs/cs.cmu.edu/user/mitchell/ftp/mlbook.html). T. Mitchell, McGraw-Hill, 1997.</p>

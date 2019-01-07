@@ -1,0 +1,38 @@
+<h1> Supervised Machine Learning, Fall 2018 </h1>
+Schedule is updated dynamically during the semester
+</br>
+
+<font size="3">
+
+|  | DATE      | TOPIC              |READING    |      OUT|      DUE   |
+|--| --------- |:-------------------- |:---------------| -------:| ----------:|
+|0 |           |Background|CB 1-2||||
+|1 |Fri, Sep 7 |Statitical learning; k-NN regression, one-variable linear regression, least squares, regression vs correlation|JW 2.1;3.1</br>HT 2.1-2.4, 2.6, 3.2-3.2.2|Hw1 out||
+|2 |Tue, Sep 11|Gaussian one-variable regression: maximum likelihood, gradient descent, measures of associations|CB 3.1.1-3.1.2</br>RW Ch 2, 5.1, 6.3|||
+|3 |Fri, Sep 14|Multi-variable regression: categorical predictors, unequal variance, robust regression|JW 3.2-3.3|||
+|4 |Tue, Sep 18|Overfitting, bias/variance tradeoff, variable selection, cross-validation|JW 5.1, 6.1,</br>HT 3.3, 7.2-7.3, 7.10, CB 3.2|Hw2 out| Hw1 due|
+|5 |Fri, Sep 21|Regression in high dimensions: curse of dimensionality, regularization|JW 6.1-6.2,</br>HT 3.4.1-3.4.3, CB 3.1.4|||
+|6 |Tue, Sep 25|Regression in high dimensions continued||||
+|7 |Fri, Sep 28|k-NN, perceptron, logistic regression, multinomial/softmax regression|JW 4.2-4.3, HT 4.2-4.4</br>CB 2.2, 4.1.7, 4.3|||
+|8 |Tue, Oct 2 | *Guest lecture*||Hw3 out| Hw2 due</br>Proj. group due|
+|9 |Fri, Oct 5 |Bayes learning, MAP estimation, Naive Bayes, mixtures of Gaussians|HT 6.6.3,</br>CB 2.3.9; 2.5.2 |||
+|10|Tue, Oct 9 |LDA, regularized LDA, diagonal LDA, nearest shrunken centroids|JW 4.4, HT 4.3, 18.2</br>CB 4.1.1-4.1.6, 4.2 |||
+|11|Fri, Oct 12|Bayesian inference for Gaussian models and regularization; information theory|CB 1.6,</br>2.3.5-2.3.6, 3.3.1|||
+|12|Tue, Oct 16|*Exam prep*|||Hw3 due|
+|13|Fri, Oct 19|**Midterm**||||
+|14|Tue, Oct 23|Basis expansion, splines, kernels; kernel density estimation|JW 7.1-7.6,</br>HT 5.1-5.5, 6.1-6.3, 6.6,</br> CB 2.5.1|||
+|15|Fri, Oct 26|Basis expansion, continued||||
+|16|Tue, Oct 30|**In-class project pitches**||Hw4 out|Proj. pitch due|
+|17|Fri, Nov 2 |Support vector machines, convex optimization|JW 9.1-4, </br>HT 4.5, 12.1-12.3.4, CB 7.1|||
+|18|Tue, Nov 6 |Classification/regression trees, bagging, random forest;</br>Boosting, model interpretation|JW 8.1-8.2,</br>HT 9.2, 15.1-15.3</br>JW 8.2 HT 10.1-10.2|||
+|19|Fri, Nov 9 |Neural networks: representation|HT 11.3, CB 5.1-5.2|Hw5 out| Hw4 due|
+|20|Tue, Nov 13| *Guest lecture*||||
+|21|Fri, Nov 16|Neural networks: training|HT 11.4-11.7</br>CB 5.3-5.5.5|||
+|22|Tue, Nov 20|Convolutional neural networks|CB 5.5.6|||
+|23|Fri, Nov 23|*No class - Thanksgiving*||||
+|24|Tue, Nov 27|*Exam prep*|||Hw5 due|
+|25|Fri, Nov 30|**Final exam**||||
+|26|Tue, Dec 4 |**Project presentations**||||
+|27|Fri, Dec 7 |**Project presentations**|||Proj. report due|
+|28|Tue, Dec 11| *Finals week*|||Proj. review due|
+</font>
