@@ -8,7 +8,7 @@ The schedule is updated dynamically during the semester
 |--| --------- |:-------------------- |:---------------| -------:| ----------:|
 |0 |           |Background|CB 1-2||||
 |1 |Tue, Jan 8 |Statistical learning; k-NN regression, one-variable linear regression, least squares, regression vs correlation|JW 2.1;3.1</br>HT 2.1-2.4, 2.6, 3.2-3.2.2|Hw1 out||
-|2 |Fri, Jan 11|Gaussian one-variable regression: maximum likelihood, gradient descent, measures of associations|CB 3.1.1-3.1.2</br>RW Ch 2, 5.1, 6.3|||
+|2 |Fri, Jan 11|Gaussian one-variable regression: maximum likelihood, gradient descent|CB 3.1.1-3.1.2</br>RW Ch 2, 5.1, 6.3|||
 |3 |Tue, Jan 15|Multi-variable regression: categorical predictors, unequal variance, robust regression|JW 3.2-3.3|||
 |4 |Fri, Jan 18|Overfitting, bias/variance tradeoff, variable selection, cross-validation|JW 5.1, 6.1,</br>HT 3.3, 7.2-7.3, 7.10, CB 3.2|Hw2 out| Hw1 due|
 |5 |Tue, Jan 22|Regression in high dimensions: curse of dimensionality, regularization|JW 6.1-6.2,</br>HT 3.4.1-3.4.3, CB 3.1.4|||
