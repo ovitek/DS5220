@@ -13,15 +13,15 @@ The schedule is updated dynamically during the semester
 |4 |Fri, Jan 18|Multi-variable regression: categorical predictors, unequal variance, robust regression|JW 3.2-3.3|Hw2 out| Hw1 due Jan 19|
 |5 |Tue, Jan 22|Overfitting, bias/variance tradeoff, variable selection, cross-validation|JW 5.1, 6.1,</br>HT 3.3, 7.2-7.3, 7.10, CB 3.2|||
 |6 |Fri, Jan 25|Regression in high dimensions: curse of dimensionality, regularization|JW 6.1-6.2,</br>HT 3.4.1-3.4.3, CB 3.1.4|||
-|7 |Tue, Jan 29|k-NN, perceptron, logistic regression, multinomial/softmax regression|JW 4.2-4.3, HT 4.2-4.4</br>CB 2.2, 4.1.7, 4.3|Hw3 out|Hw2 due Jan 30|
-|8 |Fri, Feb 1 |Bayesian inference for Gaussian models and regularization|CB 2.3.6, 3.3.1|||
+|7 |Tue, Jan 29|Regression in high dimensions</br>continued||Hw3 out|Hw2 due Jan 30|
+|8 |Fri, Feb 1 |k-NN, perceptron, logistic regression, multinomial/softmax regression|JW 4.2-4.3, HT 4.2-4.4</br>CB 2.2, 4.1.7, 4.3|||
 |9 |Tue, Feb 5 |*Guest lecture*|| |
 |10|Fri, Feb 8 |*Exam prep*|||Hw3 due</br>Proj. group due|
 |11|Tue, Feb 12|**Midterm**||||
-|12|Fri, Feb 15|Bayes learning, MAP estimation, Naive Bayes, mixtures of Gaussians |HT 6.6.3,</br>CB 2.3.9; 2.5.2|Hw4 out||
-|13|Tue, Feb 19|LDA, regularized LDA, diagonal LDA, nearest shrunken centroids|JW 4.4, HT 4.3, 18.2</br>CB 4.1.1-4.1.6, 4.2|||
-|14|Fri, Feb 22|Basis expansion, splines, kernels; kernel density estimation|JW 7.1-7.6,</br>HT 5.1-5.5, 6.1-6.3, 6.6,</br> CB 2.5.1|||
-|15|Tue, Feb 26|Basis expansion, continued||||
+|12|Fri, Feb 15|Bayesian inference for Gaussian models and regularization|CB 2.3.6, 3.3.1|Hw4 out||
+|13|Tue, Feb 19|Bayes learning, MAP estimation, Naive Bayes, mixtures of Gaussians |HT 6.6.3,</br>CB 2.3.9; 2.5.2|||
+|14|Fri, Feb 22|LDA, regularized LDA, diagonal LDA, nearest shrunken centroids|JW 4.4, HT 4.3, 18.2</br>CB 4.1.1-4.1.6, 4.2|||
+|15|Tue, Feb 26|Basis expansion, splines, kernels; kernel density estimation|JW 7.1-7.6,</br>HT 5.1-5.5, 6.1-6.3, 6.6,</br> CB 2.5.1|||
 |16|Fri, Mar 1|**In-class project pitches**||Hw4 due|Proj. pitch due|
 |17|Tue, Mar 5 | *No class - Spring break* ||||
 |18|Fri, Mar 8 | *No class - Spring break* ||||
