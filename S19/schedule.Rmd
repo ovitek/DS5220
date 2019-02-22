@@ -19,7 +19,7 @@ The schedule is updated dynamically during the semester
 |10|Fri, Feb 8 |*Exam prep*|||Hw3 due</br>Proj. group due|
 |11|Tue, Feb 12|**Midterm**||||
 |12|Fri, Feb 15|k-NN, perceptron, logistic regression, multinomial/softmax regression|JW 4.2-4.3, HT 4.2-4.4</br>CB 2.2, 4.1.7, 4.3|Hw4 out||
-|13|Tue, Feb 19|Logistic regression continued; Bayesian inference for Gaussian models and regularization|CB 2.3.6, 3.3.1|||
+|13|Tue, Feb 19|Logistic regression continued||||
 |14|Fri, Feb 22|Bayes learning, MAP estimation, Naive Bayes, mixtures of Gaussians |HT 6.6.3,</br>CB 2.3.9; 2.5.2|||
 |15|Tue, Feb 26|LDA, regularized LDA, diagonal LDA, nearest shrunken centroids|JW 4.4, HT 4.3, 18.2</br>CB 4.1.1-4.1.6, 4.2|||
 |16|Fri, Mar 1|Basis expansion, splines, kernels; kernel density estimation|JW 7.1-7.6,</br>HT 5.1-5.5, 6.1-6.3, 6.6,</br> CB 2.5.1||Hw4 due|
