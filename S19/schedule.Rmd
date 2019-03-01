@@ -22,7 +22,7 @@ The schedule is updated dynamically during the semester
 |13|Tue, Feb 19|Logistic regression continued||||
 |14|Fri, Feb 22|Bayes learning, MAP estimation, Naive Bayes, mixtures of Gaussians |HT 6.6.3,</br>CB 2.3.9; 2.5.2|||
 |15|Tue, Feb 26|LDA, regularized LDA, diagonal LDA, nearest shrunken centroids|JW 4.4, HT 4.3, 18.2</br>CB 4.1.1-4.1.6, 4.2|||
-|16|Fri, Mar 1|Basis expansion, splines, kernels; kernel density estimation|JW 7.6,</br>HT 6.1-6.3, 6.6,</br> CB 2.5.1||Hw4 due|
+|16|Fri, Mar 1|Kernels and kernel density estimation|JW 7.6,</br>HT 6.1-6.3, 6.6,</br> CB 2.5.1||Hw4 due|
 |17|Tue, Mar 5 | *No class - Spring break* ||||
 |18|Fri, Mar 8 | *No class - Spring break* ||||
 |19|Tue, Mar 12 |**In-class project pitches**|||Proj. pitch due|
