@@ -27,11 +27,11 @@ The schedule is updated dynamically during the semester
 |18|Fri, Mar 8 | *No class - Spring break* ||||
 |19|Tue, Mar 12 |**In-class project pitches**|||Proj. pitch due|
 |20|Fri, Mar 15|Support vector machines |JW 9.1-4, </br>HT 4.5, 12.1-12.3.4, CB 7.1|Hw5 out||
-|21|Tue, Mar 19|Classification/regression trees;</br>Elements of information theory|JW 8.1-8.2,</br>HT 9.2, 15.1-15.3, CB 1.6|||
-|22|Fri, Mar 22|Bagging, random forest;</br>Boosting, model interpretation|JW 8.2</br>HT 10.1-10.2|||
-|23|Tue, Mar 26|Neural networks: representation|HT 11.3, CB 5.1-5.2|Hw6 out|Hw5 due|
-|24|Fri, Mar 29|Neural networks: training|HT 11.4-11.7</br>CB 5.3-5.5.5|||
-|25|Tue, Apr 2|*Guest lecture*||||
+|21|Tue, Mar 19|Support vector machines</br>continued|||
+|22|Fri, Mar 22|Classification/regression trees;</br>Elements of information theory|JW 8.1-8.2,</br>HT 9.2, 15.1-15.3, CB 1.6|||
+|23|Tue, Mar 26|Bagging, random forest;</br>Boosting, model interpretation|JW 8.2</br>HT 10.1-10.2|Hw6 out|Hw5 due|
+|24|Fri, Mar 29|Neural networks: representation|HT 11.3, CB 5.1-5.2|||
+|25|Tue, Apr 2|*Guest lecture*</br>Neural networks: training|HT 11.4-11.7</br>CB 5.3-5.5.5|||
 |26|Fri, Apr 5 |Convolutional neural networks|CB 5.5.6|||
 |27|Tue, Apr 9 |*Exam prep*|||Hw6 due|
 |28|Fri, Apr 12| **Final exam**||||
